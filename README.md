@@ -17,6 +17,10 @@ A simple AI-powered helpdesk assistant built using OpenAI's GPT-4 API. It simula
 ## 📸 Sample Outputs
 <img width="1355" height="242" alt="image" src="https://github.com/user-attachments/assets/07982cf1-cf31-4e22-875d-b581a9dac8f9" />
 
-## 🚀 How to Use
-1. Clone this repo
-2. Install requirements:
+## Demo Projects
+
+### My Hugging Face Gradio App  
+Try my interactive demo app live here: [Gradio Demo](https://2a0087eda1e032b420.gradio.live)
+
+This demo showcases my skills in building web apps using Gradio, hosted on Hugging Face Spaces.
+
