@@ -15,7 +15,7 @@ A simple AI-powered helpdesk assistant built using OpenAI's GPT-4 API. It simula
 - Prompt Engineering
 
 ## 📸 Sample Outputs
-![Sample Output](output_screenshots/sample1.png)
+<img width="1355" height="242" alt="image" src="https://github.com/user-attachments/assets/07982cf1-cf31-4e22-875d-b581a9dac8f9" />
 
 ## 🚀 How to Use
 1. Clone this repo
